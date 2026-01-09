@@ -1,7 +1,7 @@
 # Kartik Umraniya
-Full‑Stack Developer · Rigorous interdisciplinary thinker · Gujarat
+Always Iterating · Rigorous interdisciplinary thinker · Developer · Gujarat
 
-[GitHub](https://github.com/KartikUmraniya) • LinkedIn:www.linkedin.com/in/kartik-umraniya-1b4573288 • Email:mkms28301@gmail.com • [Portfolio / CV PDF](./Kartik_Umraniya_CV.pdf)
+[GitHub](https://github.com/KartikUmraniya)  •  [LinkedIn](www.linkedin.com/in/kartik-umraniya-1b4573288) • [Email](mkms28301@gmail.com)  •  [Portfolio / CV PDF](Kartik's_Résumé.pdf)
 
 ---
 
@@ -62,6 +62,6 @@ Open to internships, entry‑level full‑stack or ML/AI roles, collaborations o
 Contact
 -------
 - GitHub: https://github.com/KartikUmraniya
-- LinkedIn: www.linkedin.com/in/kartik-umraniya-1b4573288
+- LinkedIn: [LinkedIn profile](www.linkedin.com/in/kartik-umraniya-1b4573288)
 - Email: mkms28301@gmail.com
-- Portfolio / CV PDF: ./Kartik_Umraniya_CV.pdf
+- Portfolio / CV PDF: Kartik's_Résumé.pdf
