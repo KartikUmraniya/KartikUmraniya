@@ -1,7 +1,7 @@
 # Kartik Umraniya
 Full‑Stack Developer · Rigorous interdisciplinary thinker · Gujarat
 
-[GitHub](https://github.com/KartikUmraniya) • LinkedIn: (add link) • Email: (add email) • [Portfolio / CV PDF](./Kartik_Umraniya_CV.pdf)
+[GitHub](https://github.com/KartikUmraniya) • LinkedIn:www.linkedin.com/in/kartik-umraniya-1b4573288 • Email:mkms28301@gmail.com • [Portfolio / CV PDF](./Kartik_Umraniya_CV.pdf)
 
 ---
 
@@ -37,7 +37,7 @@ Projects — In progress / Partially completed
 --------------------------------------------
 - ATS‑Friendly Resume Maker (WIP)
   - Summary: A resume builder focused on ATS compatibility with additional non‑classic template patterns (work in progress). Core template ideas and UX are in development; code will be uploaded to GitHub soon.
-  - Repo (coming soon): https://github.com/KartikUmraniya/ats-resume-maker
+  - Repo (coming soon):(https://github.com/KartikUmraniya/ATS_friendly_resume_maker)
 
 How I share work
 ----------------
@@ -48,7 +48,7 @@ How I share work
 Achievements
 ------------
 - Secured 2nd position in research & review paper writing (certificate and details listed on my LinkedIn).
-- Other certifications and endorsements available on LinkedIn (add link).
+- Other certifications and endorsements available on LinkedIn www.linkedin.com/in/kartik-umraniya-1b4573288.
 
 Education
 ---------
